@@ -1,0 +1,30 @@
+div{
+    display: block;
+}
+.box{
+    width: 230px;
+    height: 380px;
+    background-color: white;
+    margin: 180px auto;
+    border-radius: 5%;
+}
+.img{
+    width: 200px;
+    height: 200px;
+    border: 0cm;
+    border-radius: 10%;
+    padding: 15px 15px 15px 16px;
+    
+}
+h3{
+    margin: auto;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    color:hsl(218, 44%, 22%);
+}
+p{
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    color: hsl(209, 17%, 63%);;
+}
